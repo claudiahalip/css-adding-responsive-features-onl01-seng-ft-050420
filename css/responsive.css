@@ -6,7 +6,7 @@
   #h1 {width: 35px; height: 35px;}
   #h2 { font-size: 2.2em;}
   #social { top: 72px;}
-  .col-3 { -moz-column-count: 2;
+  .col-3 { -ms-column-count: 2; -moz-column-count: 2;
    -webkit-column-count: 2; column-count: 2;}
   
 }
