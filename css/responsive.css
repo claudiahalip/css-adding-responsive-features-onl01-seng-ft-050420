@@ -2,4 +2,7 @@
 #social {position: absolute; width: auto; top: 82px; right:4px}
 
 @media only screen and (max-width:110px) {
-  #h1 {width: 35px;
+  #body{font-size: 85%;}
+  #h1 {width: 35px; height: 35px;}
+  #h2 { font-size: 2.2em;}
+  #selector {
