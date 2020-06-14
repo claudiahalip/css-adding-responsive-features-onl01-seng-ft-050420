@@ -21,5 +21,6 @@
   .col-3 { -ms-column-count: 1; -moz-column-count: 1;
    -webkit-column-count: 1; column-count: 1; width: 100%; margin-left:0; float: none; }
    .col-2 {column-count: 1; width: 100%; margin-left:0; float: none;}
+   .col-3 {column-count: 1; width: 100%; margin-left:0; float: none;}
    
 }
